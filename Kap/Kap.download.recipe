@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Kap.</string>
 	<key>Identifier</key>
-	<string>com.github.paul-cossey.download.Kap</string>
+	<string>com.github.autopkg.wardsparadox.download.Kap</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
